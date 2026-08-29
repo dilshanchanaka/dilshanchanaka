@@ -10,7 +10,7 @@
 <h3 align="center">Network Systems Engineering Undergraduate | Software Engineering Graduate</h3>
 
 <p align="center">
-  <img src="chanaka.tif" alt="profile views" />
+  <img src="chanaka.tif" />
 </p>
 
 ---
