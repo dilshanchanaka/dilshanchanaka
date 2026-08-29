@@ -1,4 +1,4 @@
-[Uploading chanaka.tif…]()
+
 <div align="center">
 
 <!-- Tech stack banner - swap the icon list for whatever stack you actually use -->
@@ -10,7 +10,7 @@
 <h3 align="center">Network Systems Engineering Undergraduate | Software Engineering Graduate</h3>
 
 <p align="center">
-  <img src="chanaka.tif" />
+  <img src="[chanaka.tif](https://github.com/dilshanchanaka/dilshanchanaka/blob/main/chanaka.jpg?raw=true)" />
 </p>
 
 ---
