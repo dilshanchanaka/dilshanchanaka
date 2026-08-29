@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Tech stack banner - swap the icon list for whatever stack you actually use -->
@@ -10,7 +9,7 @@
 <h3 align="center">Network Systems Engineering Undergraduate | Software Engineering Graduate</h3>
 
 <p align="center">
-  <img src="[chanaka.jpg)](https://github.com/dilshanchanaka/dilshanchanaka/blob/main/chanaka.jpg)" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
