@@ -10,7 +10,7 @@
 <h3 align="center">Network Systems Engineering Undergraduate | Software Engineering Graduate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="chanaka.tif" alt="profile views" />
 </p>
 
 ---
