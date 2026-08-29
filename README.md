@@ -1,3 +1,4 @@
+[Uploading chanaka.tif…]()
 <div align="center">
 
 <!-- Tech stack banner - swap the icon list for whatever stack you actually use -->
