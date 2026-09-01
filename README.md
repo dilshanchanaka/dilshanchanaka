@@ -55,25 +55,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 🍲 [DonateToFeed.lk — Food Donation & Redistribution Platform](https://github.com/dilshanchanaka/donatetofeed-lk)
-Full-stack MERN application connecting food donors, NGOs, and recipients. Led a 5-member Agile team as Project Manager through planning, development, testing, and delivery. Includes authentication, role-based access, donation workflows, admin features, and real-time chat.
-`React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Vite`
-
-#### 💊 [SPC Pharmacy Supply Chain Management System](https://github.com/dilshanchanaka/spc-pharmacy-scm)
-Service-oriented system for managing pharmaceutical supply chain operations, with ASP.NET Core REST APIs, JWT authentication, role-based authorization, and React dashboards for suppliers, pharmacies, and administrators.
-`React` `ASP.NET Core` `.NET 8` `SQL Server` `Entity Framework Core` `JWT` `Swagger`
-
-#### 🏋️ [FitZone — Fitness Center Web Application](https://github.com/dilshanchanaka/fitzone)
-Full-stack fitness center management system with member and admin portals — registration, authentication, membership, payment, booking, scheduling, and reporting, backed by a relational database and automated email.
-`PHP` `MySQL` `HTML5` `CSS3` `JavaScript` `PHPMailer`
-
-#### 🛒 [Sadee Cosmetic Store — POS & Inventory Management System](https://github.com/dilshanchanaka/sadee-cosmetic-store)
-Java Swing desktop POS and inventory management system with cashier/administrator roles, product management, search, transactions, and CRUD operations, built with OOP principles and File I/O persistence.
-`Java` `Java Swing` `NetBeans` `OOP` `File I/O`
-
----
 
 ### 📊 GitHub Stats
 
