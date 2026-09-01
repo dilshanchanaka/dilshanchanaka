@@ -1,96 +1,86 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Chanaka Dilshan</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Building with the MERN & .NET stacks</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Chanaka%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Network%20Systems%20Engineering%20Undergraduate&descAlignY=55&descSize=16"/>
+<p align="center">
+  <a href="https://linkedin.com/in/chanaka-dilshan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chanakadilshan066@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=dilshanchanaka&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="profile views"/>
-
-</div>
-
-<br>
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+---
 
 ### 🚀 About Me
 
-```yaml
-Name: Chanaka Dilshan Jayarathna
-Username: dilshanchanaka
-Location: Bandarawela, Sri Lanka 🇱🇰
-Bio: Software Engineering Undergraduate | Web Development & UI/UX Design
-```
-
-- 🔭 &nbsp;Currently building **FitZone Fitness** and other web projects
-- 🌱 &nbsp;Currently sharpening my skills in **React, Node.js & MongoDB**
-- 🎓 &nbsp;Pursuing a **BSc (Hons) in Network Systems Engineering** — Cardiff Metropolitan University (ICBT Campus), UK
-- 📖 &nbsp;Completed a **Higher Diploma in Computing and Software Engineering** — Cardiff Metropolitan University (ICBT Campus), UK
-- 💬 &nbsp;Ask me about **React, Node.js, MongoDB, Networking & UI/UX**
-- 📫 &nbsp;Reach me at **your.email@example.com**
-- ⚡ &nbsp;Fun fact: **Always exploring the intersection of networks and web design!**
-
-<br clear="right"/>
+- 🎓 Software Engineering graduate, currently pursuing a **BSc (Hons) in Network Systems Engineering** at Cardiff Metropolitan University (ICBT Campus)
+- 💼 Background in **QA Process Auditing** (3 years) — process audits, root cause analysis, CAPA, and compliance
+- 💻 Now focused on **full-stack web & desktop application development**
+- 🌱 Currently deepening my skills in **React, Node.js, and ASP.NET Core**
+- 👯 Open to collaborating on full-stack and Agile-driven projects
+- ⚡ Fun fact: I went from auditing quality processes to building the software that runs them
 
 ---
 
-### 🎓 Education
+### 🛠️ Tech Stack
 
-| Qualification | Institution | Status |
-|---|---|---|
-| BSc (Hons) Network Systems Engineering | Cardiff Metropolitan University (ICBT Campus), UK | Undergraduate |
-| Higher Diploma in Computing & Software Engineering | Cardiff Metropolitan University (ICBT Campus), UK | Graduate |
+**Languages & Core**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
 
-### 🛠️ Tech Stack & Tools
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-<div align="center">
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,html,css,java,figma,mysql,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dilshanchanaka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00c9ff&bg_color=0d1117&icon_color=00c9ff&title_color=00c9ff&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dilshanchanaka&layout=compact&langs_count=8&theme=tokyonight&border_color=00c9ff&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshanchanaka&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshanchanaka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff"/>
-
-</div>
+**Tools & Practices**
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-<div align="center">
+- **[DonateToFeed.lk](#)** — Full-stack MERN food donation & redistribution platform with real-time chat, role-based access, and donation workflows. Led a 5-member Agile team as Project Manager.
+- **[SPC Pharmacy Supply Chain System](#)** — ASP.NET Core REST APIs with JWT auth, EF Core, and SQL Server, powering React dashboards for suppliers, pharmacies, and admins.
+- **[FitZone](#)** — Full-stack fitness center management system (PHP/MySQL) with membership, payments, booking, and automated email.
+- **[Sadee Cosmetic Store POS](#)** — Java Swing desktop POS & inventory system with role-based login and File I/O persistence.
 
-<a href="https://github.com/dilshanchanaka/FitZone_Fitness">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dilshanchanaka&repo=FitZone_Fitness&theme=tokyonight&border_color=00c9ff&bg_color=0d1117&icon_color=00c9ff&title_color=00c9ff&text_color=c9d1d9" />
-</a>
-
-</div>
+*(Replace the `#` links above with your actual repo URLs.)*
 
 ---
 
-### 🌐 Connect With Me
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/dilshanchanaka" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+</p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer"/>
+### 📫 Reach Me
+
+- 📧 chanakadilshan066@gmail.com
+- 📱 +94 70 564 0502
+- 🔗 [LinkedIn](https://linkedin.com/in/chanaka-dilshan)
+
+<p align="center"><i>⭐️ From <a href="#">Chanaka Dilshan</a></i></p>
