@@ -62,8 +62,7 @@
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dilshanchanaka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00c9ff&bg_color=0d1117&icon_color=00c9ff&title_color=00c9ff&text_color=c9d1d9"/>
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dilshanchanaka&layout=compact&langs_count=8&theme=tokyonight&border_color=00c9ff&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshanchanaka&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshanchanaka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff"/>
-</div>
+
 
 ### 📫 Connect with Me
 
