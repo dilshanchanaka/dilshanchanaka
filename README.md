@@ -9,12 +9,12 @@
 
 ### 🚀 About Me
 
-- 🎓 Higher Diploma in Computing & Software Engineering — **ICBT Campus / Cardiff Metropolitan University**
-- 💻 Full-stack developer experienced with **MERN**, **ASP.NET Core**, and **PHP** stacks
-- 🧪 Former **QA Process Auditor** (3 years) — bring a strong quality, compliance, and process-improvement mindset to every project
-- 🤝 Experienced in **Agile development** and team leadership
-- 🌱 Always exploring new tools and best practices in software engineering
-- 📫 Reach me at **chanakadilshan066@gmail.com**
+-  Higher Diploma in Computing & Software Engineering — **ICBT Campus / Cardiff Metropolitan University** 🎓 
+-  Full-stack developer experienced with **MERN**, **ASP.NET Core**, and **PHP** stacks 💻
+-  Former **QA Process Auditor** (3 years) — bring a strong quality, compliance, and process-improvement mindset to every project
+-  Experienced in **Agile development** and team leadership
+-  Always exploring new tools and best practices in software engineering
+-  Reach me at **chanakadilshan066@gmail.com** 📫
 
 ---
 
